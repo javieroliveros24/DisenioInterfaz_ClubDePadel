@@ -213,7 +213,8 @@ PadelSlot se organiza en cuatro vistas, una por perfil de usuario, cada una con 
 
 ## 3.2 Representación de tiempos en diagrama de Gantt 
 
-![][image1]
+<img width="1555" height="1012" alt="Cronograma de ejecución visual" src="https://github.com/user-attachments/assets/7688040c-14f6-4b82-8e2c-d7f400d01056" />
+
 
 # 
 
