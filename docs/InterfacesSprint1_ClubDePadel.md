@@ -56,16 +56,16 @@
 
 # 1\. Análisis inicial
 
-## 1.1. Identificación del público objetivo {#1.1.-identificación-del-público-objetivo}
+## 1.1. Identificación del público objetivo 
 
-### Cliente B2B (Público Objetivo Comercial) {#cliente-b2b-(público-objetivo-comercial)}
+### Cliente B2B (Público Objetivo Comercial)
 
 Es el comprador directo de la aplicación web. Su objetivo principal es optimizar la gestión operativa, reducir costes administrativos, maximizar el ingreso medio por cliente (ARPU) y escalar la rentabilidad de las instalaciones del club de pádel.  
 Los propietarios, directores y gerentes de operaciones de clubes de pádel (tanto indoor como outdoor) enfrentan ineficiencias derivadas de la gestión manual mediante llamadas telefónicas o WhatsApp, pistas desocupadas en franjas horarias de baja demanda, descontrol en cobros o cancelaciones y la incapacidad de realizar venta cruzada en sus tiendas o zonas de restauración. Para este perfil comercial, la plataforma aporta un valor diferencial al unificar en un único flujo digital la reserva de pistas y la monetización de servicios secundarios como el estacionamiento, la cafetería y los accesorios deportivos. Esta integración optimiza la rotación del aparcamiento, convirtiendo esta infraestructura en un reclamo comercial para vender más horas de pista y transformar a los jugadores ocasionales en socios de cuota recurrente.
 
 Asimismo, en grandes complejos de pádel o cadenas de clubes, la problemática principal se centra en la gestión masiva de usuarios, la organización de torneos con alta participación, los cobros desintegrados y la selección de personal especializado. La aplicación resuelve estas carencias centralizando la administración integral e incorporando módulos específicos para la bolsa de trabajo (monitores, recepción, personal de bar) y la gestión completa de competiciones. Además, potencia la retención de clientes al ofrecer al socio una experiencia diferenciada, rentabilizando su cuota mediante descuentos automáticos en alquileres y aparcamiento gratuito.
 
-### Usuario Final B2C (Público Objetivo de Uso) {#usuario-final-b2c-(público-objetivo-de-uso)}
+### Usuario Final B2C (Público Objetivo de Uso)
 
 Son los jugadores y usuarios que utilizarán la interfaz pública para interactuar con los servicios del club de pádel. El diseño de la experiencia de usuario (UX/UI) se adapta a sus diferentes patrones de uso e intereses dentro del ecosistema del pádel:
 
@@ -75,11 +75,11 @@ Son los jugadores y usuarios que utilizarán la interfaz pública para interactu
 * **Cliente Casual / Comprador**: Acude al portal web motivado por la necesidad inmediata de equipamiento, utilizando la tienda integrada para la compra rápida de consumibles (bolas, grips, protectores) o ropa deportiva antes de acudir a su partido.  
 * **Candidato / Profesional del Pádel**: Su motivación es el desarrollo profesional o la búsqueda de empleo en el sector deportivo. Utiliza el módulo público de bolsa de trabajo para enviar su currículum a las ofertas activas del club para puestos de monitor de pádel, recepcionista o personal de hostelería.
 
-## 1.2. Objetivos principales de la interfaz {#1.2.-objetivos-principales-de-la-interfaz}
+## 1.2. Objetivos principales de la interfaz
 
 Los objetivos de la interfaz (UI/UX) del proyecto se estructuran en torno a sus 4 pilares clave:
 
-### Objetivos Principales {#objetivos-principales}
+### Objetivos Principales
 
 * **Optimizar la agilidad operativa (B2B):** Reducir al mínimo el número de clics y el tiempo necesario para que la recepción y gerencia realicen tareas clave, como reservar pistas, gestionar la caja, modificar horarios o cobrar consumiciones en el bar.  
 * **Maximizar la usabilidad y adopción del cliente (B2C):** Ofrecer una experiencia fluida e intuitiva en dispositivos móviles que permita a los jugadores buscar pistas disponibles, reservar, pagar y acceder al club (p. ej., mediante código QR) de forma autónoma en segundos.  
@@ -89,9 +89,9 @@ Los objetivos de la interfaz (UI/UX) del proyecto se estructuran en torno a sus 
 
 ## 
 
-## 1.3. Benchmarking: referencias a 2 sitios familiares {#1.3.-benchmarking:-referencias-a-2-sitios-familiares}
+## 1.3. Benchmarking: referencias a 2 sitios familiares 
 
-### Referencia 1 \- Racket Club Padel.  {#referencia-1---racket-club-padel.}
+### Referencia 1 \- Racket Club Padel.  
 
 Racket Club es uno de los clubes de pádel más modernos del Aljarafe, solo hay que ver su aplicación web. Este club ofrece reservas a cualquiera de sus 6 pistas de pádel: 2 panorámicas al aire libre y 4 semicubiertas con césped profesional y vestuarios completos. Además de integrar una tienda de pádel y una cafetería para hacer luego un buen rato después del partido, también tiene su propia escuela de padel con entrenadores profesionales para cualquier edad y categoría, teniendo una app exclusiva para socios.
 
@@ -113,7 +113,7 @@ No vamos a aplicar un acceso a otra web para poder reservar pistas. Este club si
 
 ### 
 
-### Referencia 2 \- Real Club de Tenis Betis.  {#referencia-2---real-club-de-tenis-betis.}
+### Referencia 2 \- Real Club de Tenis Betis.  
 
 El Real Club de Tenis Betis es uno de los clubes más grandes de tenis de Sevilla. Prueba de ello es que cuenta con 8 pistas de Tenis variadas entre pista de césped y tierra batida. A su vez cuenta con 2 pistas de padel. Además organiza la Copa Sevilla Challenger desde hace más de 60 años donde participan los mejores jugadores nacionales.
 
@@ -135,11 +135,10 @@ Nos gustaría que el club contase con días especiales para realizar eventos, co
 
 # 
 
-# 2\. Plan de diseño de la interfaz {#2.-plan-de-diseño-de-la-interfaz}
+# 2\. Plan de diseño de la interfaz 
+## 2.1. Definición de requerimientos funcionales y estéticos 
 
-## 2.1. Definición de requerimientos funcionales y estéticos {#2.1.-definición-de-requerimientos-funcionales-y-estéticos}
-
-### Requerimientos funcionales {#requerimientos-funcionales}
+### Requerimientos funcionales
 
 * **RF-01. Búsqueda y reserva como invitado**: el visitante podrá buscar pistas por municipio, fecha y franja horaria, comparar clubes y reservar sin cuenta.  
 * **RF-02. Cuenta de usuario**: el usuario podrá registrarse, acceder y cambiar de club activo.  
@@ -150,7 +149,7 @@ Nos gustaría que el club contase con días especiales para realizar eventos, co
 * **RF-07. Panel de administración**: el administrador podrá ver las reservas, la ocupación, los ingresos, la agenda y las alertas del día.  
 * **RF-08. Gestión del club**: el administrador podrá gestionar pistas, reservas, socios, clases, torneos, pagos y servicios, y configurar los módulos activos.
 
-### Requerimientos estéticos {#requerimientos-estéticos}
+### Requerimientos estéticos 
 
 * **RE-01. Paleta de color**: verde oscuro (\#255945) como primario, blanco (\#ffffff) como secundario y lima (\#DEF127) como terciario.  
 * **RE-02. Tipografía**: Space Grotesk  para títulos e Inter para el texto, con una escala de tamaños común y fuente sans-serif de respaldo.  
@@ -158,20 +157,20 @@ Nos gustaría que el club contase con días especiales para realizar eventos, co
 * **RE-04. Responsive**: adaptación a móvil, tablet y escritorio, con menú hamburguesa y barra de navegación inferior en móvil.  
 * **RE-05. Accesibilidad**: contraste mínimo WCAG AA (4,5:1), texto de al menos 16 px y estados visibles en los elementos interactivos.
 
-## 2.2. Elaboración de bocetos (wireframes) de la página de inicio y una sección interior {#2.2.-elaboración-de-bocetos-(wireframes)-de-la-página-de-inicio-y-una-sección-interior}
+## 2.2. Elaboración de bocetos (wireframes) de la página de inicio y una sección interior 
 
 Para la realización del boceto de la app web se a utilizado balsamiq
 <img width="11108" height="9586" alt="image" src="https://github.com/user-attachments/assets/aba18b49-bc51-4dac-b72b-ccc12c5eeb21" />
 
 
-## 2.3. Mockup y prototipo {#2.3.-mockup-y-prototipo}
+## 2.3. Mockup y prototipo
 
 Para realizar tanto el mockup como un pequeño prototipo se realizó figma  
 [https\://www\.figma.com/design/GpEHNflRBBOj7DekpZSQNW/mockup?node-id=0-1\&t=Mw3mXMztUTPlRygt-1](https://www.figma.com/design/GpEHNflRBBOj7DekpZSQNW/mockup?node-id=0-1&t=Mw3mXMztUTPlRygt-1) 
 
-## 2.4. Justificación de las decisiones de diseño {#2.4.-justificación-de-las-decisiones-de-diseño}
+## 2.4. Justificación de las decisiones de diseño 
 
-### Colores  {#colores}
+### Colores 
 
 * **Color primario**: **verde oscuro** (\#255945). Es el color principal, un color dominante que encaja a la perfección con un club deportivo. Transmite naturaleza, salud y estabilidad. Lo usaremos para la cabecera, el pie de página, los títulos y los textos principales.  
 * **Color secundario**: **blanco** (\#ffffff). Es el color de fondo, un color que compagina muy bien con cualquier color y es muy usado para la legibilidad de las aplicaciones web. Da sensación de limpieza y orden, favorece la legibilidad y da una imagen clara y profesional. Además, hace destacar mucho más el verde oscuro y el color lima.   
@@ -182,7 +181,7 @@ Referencias colores: https\://webaim.org/resources/contrastchecker/
 
 ### 
 
-### Tipografía {#tipografía}
+### Tipografía 
 
 * **Títulos: Space Grotesk**. Es una fuente sans-serif con personalidad, donde sus formas modernas y algo geométricas transmiten dinamismo y tecnología, algo parecido a lo que aporta la energía del color lima. Da carácter a la aplicación web sin perder legibilidad, y destaca con claridad en cabeceras y secciones.  
 * **Textos: Inter**. Esta fuente está diseñada específicamente para pantallas. Incluye soporte completo de caracteres del español (ñ, tildes), y sus letras tienen una altura de x grande y formas abiertas, lo que mantiene la legibilidad en tamaños pequeños (horarios, precios, etc). 
@@ -190,7 +189,7 @@ Referencias colores: https\://webaim.org/resources/contrastchecker/
 Esta combinación es de las más adecuadas para una plataforma de software como PadelSlot, que debe ser moderna y clara a la vez. Ambas fuentes son sans-serif, de modo que resultan coherentes entre sí, y el contraste de personalidad y de peso crea una jerarquía visual clara sin necesidad de más recursos. Además, las dos son gratuitas y están disponibles en Google Fonts. Se define una fuente genérica sans-serif de respaldo por si no cargan.  
 Referencias: [https\://www\.diligent.es/tipografia-web-como-elegir-las-fuentes-de-tu-web-sin-ser-disenador/](https://www.diligent.es/tipografia-web-como-elegir-las-fuentes-de-tu-web-sin-ser-disenador/)
 
-### Estructura {#estructura}
+### Estructura
 
 PadelSlot se organiza en cuatro vistas, una por perfil de usuario, cada una con su navegación:
 
@@ -199,9 +198,9 @@ PadelSlot se organiza en cuatro vistas, una por perfil de usuario, cada una con 
 * **Administrador**: barra lateral con los módulos de gestión (reservas, clases, socios, pagos, torneos, parking, bar, empleo, incidencias, informes y configuración) y un panel de inicio con métricas y alertas.  
 * **Reserva de pistas**: flujo guiado en tres pasos (Fecha y horario, Participantes, Confirmación), con resumen de precio siempre visible.
 
-# 3\. Cronograma de ejecución {#3.-cronograma-de-ejecución}
+# 3\. Cronograma de ejecución 
 
-## 3.1 División del proyecto en fases {#3.1-división-del-proyecto-en-fases}
+## 3.1 División del proyecto en fases 
 
 | Fase | Actividades | Tiempo estimado |
 | ----- | ----- | ----- |
@@ -212,13 +211,13 @@ PadelSlot se organiza en cuatro vistas, una por perfil de usuario, cada una con 
 
 ## 
 
-## 3.2 Representación de tiempos en diagrama de Gantt {#3.2-representación-de-tiempos-en-diagrama-de-gantt}
+## 3.2 Representación de tiempos en diagrama de Gantt 
 
 ![][image1]
 
 # 
 
-# 4\. Presupuesto básico {#4.-presupuesto-básico}
+# 4\. Presupuesto básico 
 
 Para garantizar la viabilidad técnica y financiera del proyecto, se ha desarrollado una estimación cuantitativa exhaustiva dividida en tres partidas principales: Recursos Humanos, Licencias/Herramientas e Infraestructura, y Otros Gastos Operativos.
 
@@ -256,7 +255,7 @@ Se ha priorizado el uso de herramientas de código abierto (*Open Source*), plan
 
 ## 
 
-## 4.3. Otros gastos operativos y UX {#4.3.-otros-gastos-operativos-y-ux}
+## 4.3. Otros gastos operativos y UX
 
 Partida destinada a cubrir la investigación de campo presencial, las pruebas de usabilidad con usuarios finales y la reserva de seguridad para contingencias técnicas durante la ejecución.
 
@@ -270,7 +269,7 @@ Partida destinada a cubrir la investigación de campo presencial, las pruebas de
 
 ### 
 
-## Resumen económico consolidado  {#resumen-económico-consolidado}
+## Resumen económico consolidado  
 
 El presupuesto global necesario para la realización completa del proyecto asciende a **12.097,00 €**, desglosado de la siguiente manera:
 
