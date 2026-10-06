@@ -161,6 +161,8 @@ Nos gustaría que el club contase con días especiales para realizar eventos, co
 ## 2.2. Elaboración de bocetos (wireframes) de la página de inicio y una sección interior {#2.2.-elaboración-de-bocetos-(wireframes)-de-la-página-de-inicio-y-una-sección-interior}
 
 Para la realización del boceto de la app web se a utilizado balsamiq
+<img width="11108" height="9586" alt="image" src="https://github.com/user-attachments/assets/aba18b49-bc51-4dac-b72b-ccc12c5eeb21" />
+
 
 ## 2.3. Mockup y prototipo {#2.3.-mockup-y-prototipo}
 
