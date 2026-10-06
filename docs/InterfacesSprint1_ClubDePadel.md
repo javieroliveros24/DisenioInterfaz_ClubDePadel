@@ -53,6 +53,11 @@
 [4.3. Otros gastos operativos y UX	13](#4.3.-otros-gastos-operativos-y-ux)
 
 [Resumen económico consolidado	13](#resumen-económico-consolidado)
+# Coevalución
+Javier Oliveros Lepe - 100%(Todos puntuan el 100%)
+Pablo Márquez López - 100%(Todos puntuan el 100%)
+Ismael Frías Fernández - 100%(Todos puntuan el 100%)
+Alberto Rueda Romero - 100%(Todos puntuan el 100%)
 
 # 1\. Análisis inicial
 
