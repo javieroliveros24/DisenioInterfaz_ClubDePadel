@@ -54,7 +54,7 @@
 
 [Resumen económico consolidado	13](#resumen-económico-consolidado)
 
-# 1\. Análisis inicial {#1.-análisis-inicial}
+# 1\. Análisis inicial
 
 ## 1.1. Identificación del público objetivo {#1.1.-identificación-del-público-objetivo}
 
