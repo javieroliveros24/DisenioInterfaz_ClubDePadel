@@ -152,7 +152,7 @@ Nos gustaría que el club contase con días especiales para realizar eventos, co
 * **RF-02. Cuenta de usuario**: el usuario podrá registrarse, acceder y cambiar de club activo.  
 * **RF-03. Reserva de pistas**: el usuario podrá reservar en tres pasos (fecha y horario, participantes, confirmación y pago), con extras opcionales y un resumen de precio que aplique la tarifa de socio o el suplemento de no socio.  
 * **RF-04. Gestión de reservas**: el usuario podrá consultar, cancelar y repetir sus reservas.  
-* **RF-05. Clases, torneos y ligas**: el socio podrá consultar el calendario e inscribirse.  
+* **RF-05. Clases especializadas**: el socio podrá consultar el calendario e inscribirse.  
 * **RF-06. Membresía y servicios**: el socio podrá gestionar su membresía y consultar los servicios del club (parking, bar y empleo).  
 * **RF-07. Panel de administración**: el administrador podrá ver las reservas, la ocupación, los ingresos, la agenda y las alertas del día.  
 * **RF-08. Gestión del club**: el administrador podrá gestionar pistas, reservas, socios, clases, torneos, pagos y servicios, y configurar los módulos activos.
