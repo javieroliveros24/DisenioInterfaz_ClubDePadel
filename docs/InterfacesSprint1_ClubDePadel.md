@@ -54,10 +54,13 @@
 
 [Resumen económico consolidado	13](#resumen-económico-consolidado)
 # Coevalución
-Javier Oliveros Lepe - 100%(Todos puntuan el 100%)
-Pablo Márquez López - 100%(Todos puntuan el 100%)
-Ismael Frías Fernández - 100%(Todos puntuan el 100%)
-Alberto Rueda Romero - 100%(Todos puntuan el 100%)
+Javier Oliveros Lepe - 100% (Todos puntúan el 100%)
+
+Pablo Márquez López - 100% (Todos puntúan el 100%)
+
+Ismael Frías Fernández - 100% (Todos puntúan el 100%)
+
+Alberto Rueda Romero - 100% (Todos puntúan el 100%)
 
 # 1\. Análisis inicial
 
@@ -102,7 +105,7 @@ Racket Club es uno de los clubes de pádel más modernos del Aljarafe, solo hay 
 
 Una vez viendo lo que tiene dicha aplicación web, nos gustaría aplicar a nuestra aplicación web para mejorarla lo siguiente:
 
-- Una tienda, pero no únicamente con palas, también con pelotas y accesorios clave como mochilas, correctores de agarre, muñequeras y protectores de marco.  
+- Una tienda, llegando a ofrecer todo tipo de accesorios de pádel.
 - Una escuela de pádel para todas las edades y categorías, y tanto los que se apunten como los entrenadores tendrán ropa oficial del club.  
 - Redes sociales activas para tener más visibilidad.  
 - Un pequeño bar donde la gente pueda tomarse algo antes y después de su partido y comentar las mejores jugadas. Se podrá reservar para cumpleaños, eventos, etc…  
@@ -114,7 +117,7 @@ Luego también se nos ha ocurrido añadir un par de cosas:
 - Apartado de torneos, donde aparte de que el club haga sus propios torneos con profesionales y premios, también para que la gente pueda realizar sus propios torneos personalizados.  
 - Opción de parking para clientes, ya sea para los que alquilan pistas como para los que tienen clases de padel.
 
-No vamos a aplicar un acceso a otra web para poder reservar pistas. Este club si quieres reservar una pista, o llamas al número proporcionado o tienes que acceder a la web palytomic.com para reservar. En nuestra web intentaremos que en tan solo 3-4 clics, sin tener que salirte de la aplicación web, puedas reservar sin problema.
+Todo esto lo ofrecemos en la aplicación web, pero depende de lo que quiera cada club. Además, no vamos a aplicar un acceso a otra web para poder reservar pistas. En Racket Club si quieres reservar una pista, o llamas al número proporcionado o tienes que acceder a la web palytomic.com para reservar. En nuestra web intentaremos que en tan solo 3-4 clics, sin tener que salirte de la aplicación web, puedas reservar sin problema.
 
 ### 
 
@@ -228,21 +231,9 @@ PadelSlot se organiza en cuatro vistas, una por perfil de usuario, cada una con 
 Para garantizar la viabilidad técnica y financiera del proyecto, se ha desarrollado una estimación cuantitativa exhaustiva dividida en tres partidas principales: Recursos Humanos, Licencias/Herramientas e Infraestructura, y Otros Gastos Operativos.
 
 ## 4.1. Recursos humanos (Horas del equipo dedicadas para hacer el proyecto.)
+<img width="627" height="451" alt="Captura de pantalla 2026-10-08 090210" src="https://github.com/user-attachments/assets/96e8bef6-4a30-4d37-bc6a-74a1b248c9d8" />
+<img width="365" height="448" alt="Captura de pantalla 2026-10-08 090229" src="https://github.com/user-attachments/assets/517d3683-27ea-4250-8af5-b96877f03e3f" />
 
-El cálculo del coste de personal toma como referencia una tarifa estándar de **20,00 €/hora** para perfiles de ingeniería junior. El volumen total de trabajo del TFG asciende a **600 horas de dedicación efectiva** (150 horas por integrante), distribuidas en el ciclo de vida completo del desarrollo:
-
-| Fase Metodológica | Horas Totales | Horas / Integrante | Coste de la Fase   |
-| :---- | :---: | :---: | ----- |
-| **1\. Análisis, Investigación y UX (Sprint 1\)** | 100 h | 25 h | 2.000,00 € |
-| **2\. Diseño UI y Sistema de Diseño** | 80 h | 20 h | 1.600,00 € |
-| **3\. Desarrollo Full-Stack (Core y Módulos)** | 260 h | 65 h | 5.200,00 € |
-| **4\. DevOps, Infraestructura y Despliegue** | 60 h | 15 h | 1.200,00 € |
-| **5\. Testing, Calidad y Memoria Técnica** | 100 h | 25 h | 2.000,00 € |
-| **TOTAL RECURSOS HUMANOS** | **600 h** | **150 h** | **12.000,00 €** |
-
-*150 horas por estudiante × 20,00 €/hora \= 3.000,00 €*
-
-## 
 
 ## 4.2. Herramientas e infraestructura(Licencias)
 
