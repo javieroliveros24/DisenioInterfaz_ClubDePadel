@@ -208,17 +208,17 @@ PadelSlot se organiza en cuatro vistas, una por perfil de usuario, cada una con 
 ## 3.1 División del proyecto en fases 
 
 | Fase | Actividades | Tiempo estimado |
-| ----- | ----- | ----- |
-| **1\. Análisis** | Hemos comenzado definiendo el público objetivo, del que diferenciamos el cliente, que se trata del club de pádel, así como usuario final, que es el que va a experimentar con la aplicación web. El objetivo de este software no es otro que facilitar la reserva de pistas del club, así como ventajas extras como parking, clases en el club, consultas sobre el club, inscripción a torneos, uso del restaurante... etc. Para ello, hemos investigado sobre dos grandes clubs que hemos usado de referencia para sacar cosas positivas así como negativas, los cuales son Real Club tenis betis y racket club padel. | **3 días** |
-| **2\. Diseño** | Hemos realizado un estudio de la psicología del color en que hemos cogido 3 colores principalmente, siendo el principal el blanco para proporcionar claridad, limpieza y balance, un color que simboliza a una pelota de pádel. Hemos realizado un mockup guiándonos en estos 3 colores, dando lugar a un prototipo realizado con figma. | **4 días** |
-| **3\. Validación** | Reunidos todo el grupo, hemos debatido si estamos de acuerdo con el trabajo realizado por cada integrante del grupo, hemos establecido objetivos, comprobado que la interfaz es intuitiva y sobre si la psicología del color es adecuada. | **1 día** |
-| **4\. Ajustes** | Corrección de leves diferencias como algún objetivo específico. | **1 día** |
+|---|---|---|
+| **1. Análisis** | En esta primera fase estudiaremos las necesidades del club de pádel y de las personas que van a utilizar la aplicación. Definiremos el público objetivo, los diferentes tipos de usuarios y los objetivos principales que queremos conseguir con el proyecto. También analizaremos qué funcionalidades debería tener la aplicación, como la reserva de pistas, consulta de actividades, inscripción a torneos o información sobre los servicios del club. Además, investigaremos otras aplicaciones y páginas web de clubes de pádel para tomar referencias y detectar aspectos que podamos mejorar en nuestra propuesta. | **3 semanas** |
+| **2. Diseño** | En esta fase estableceremos cómo será la aplicación tanto a nivel visual como estructural. Definiremos la identidad visual del proyecto, seleccionando colores, tipografías y otros elementos que ayuden a crear una interfaz clara y fácil de utilizar. Diseñaremos la distribución de las diferentes páginas, la navegación entre ellas y los elementos que tendrá cada apartado. Además, plantearemos la estructura de la base de datos y realizaremos bocetos y prototipos para comprobar cómo quedaría la aplicación antes de comenzar con el desarrollo completo. | **12 semanas** |
+| **3. Validación** | En esta fase comprobaremos que el proyecto desarrollado cumple con los objetivos y requisitos establecidos durante las fases anteriores. Realizaremos pruebas de las diferentes funcionalidades de la aplicación, comprobando especialmente que los usuarios puedan navegar correctamente y utilizar las funciones principales, como las reservas y la consulta de información. También revisaremos el diseño y la usabilidad para detectar posibles problemas. Los errores o aspectos que necesiten mejoras serán anotados para poder corregirlos en la siguiente fase. | **4 semanas** |
+| **4. Ajustes** | En esta última fase realizaremos las correcciones y mejoras que hayan surgido durante la validación. Solucionaremos los errores encontrados y modificaremos aquellos elementos que puedan mejorar el funcionamiento, la apariencia o la facilidad de uso de la aplicación. También revisaremos que todas las partes del proyecto estén correctamente conectadas y que se cumplan los objetivos iniciales. Finalmente, realizaremos una revisión completa, terminaremos la documentación y prepararemos el proyecto para su presentación y entrega. | **2 semanas** |
 
 ## 
 
 ## 3.2 Representación de tiempos en diagrama de Gantt 
 
-<img width="1555" height="1012" alt="Cronograma de ejecución visual" src="https://github.com/user-attachments/assets/7688040c-14f6-4b82-8e2c-d7f400d01056" />
+<img width="1554" height="1012" alt="Cronograma de ejecución con fases y semanas" src="https://github.com/user-attachments/assets/5273f4be-dce1-42d3-840f-518cc9d7593f" />
 
 
 # 
